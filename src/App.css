@@ -1,0 +1,15 @@
+.height{
+  min-height: 200px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.loader-container {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.2); /* Semi-transparent black */
+  opacity: 1;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
