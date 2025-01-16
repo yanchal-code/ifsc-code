@@ -64,7 +64,7 @@ function App() {
               <input
                 type="submit"
                 value="Search"
-                className="form-control btn btn-info"
+                className="form-control btn btn-danger"
               />
             </form>
           </div>
